@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VOLCANOID</string>
+    <string name="title_activity_gunung">INFO GUNUNG</string>
+    <string name="title_activity_pendaki">PENDAKI</string>
+    <string name="title_activity_input">INPUT DATA</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+
+    <string-array name="sports_titles">
+        <item>Arjuno</item>
+        <item>Raung</item>
+        <item>Semeru</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Deskripsi Arjuno!</item>
+        <item>Deskripsi Raung!</item>
+        <item>Deskripsi Semeru!</item>
+    </string-array>
+
+
+    <array name="sports_images">
+        <item>@drawable/arjuno</item>
+        <item>@drawable/raung</item>
+        <item>@drawable/semeru</item>
+    </array>
+</resources>
