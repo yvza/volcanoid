@@ -24,7 +24,7 @@ public class gunungActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         int gridColumnCount =
-                1;
+                getResources().getInteger(R.integer.grid_column_count);
 
         int swipeDirs;
         if(gridColumnCount > 1){

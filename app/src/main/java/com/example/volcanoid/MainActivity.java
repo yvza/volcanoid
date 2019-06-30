@@ -25,8 +25,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void infoDaruratClicked(View view) {
+        Intent intent = new Intent(this, infoDaruratActivity.class);
+        startActivity(intent);
     }
 
     public void newsClicked(View view) {
+        Intent intent = new Intent(this, newsActivity.class);
+        startActivity(intent);
     }
 }

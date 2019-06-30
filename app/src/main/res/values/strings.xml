@@ -3,16 +3,15 @@
     <string name="title_activity_gunung">INFO GUNUNG</string>
     <string name="title_activity_pendaki">PENDAKI</string>
     <string name="title_activity_input">INPUT DATA</string>
-
+    <string name="volcanoid">V O L C A N O I D</string>
     <string name="title_placeholder">Title</string>
     <string name="news_placeholder">News</string>
     <string name="sports_info_placeholder">Here is some news</string>
-    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
-        consectetur adipiscing elit. Praesent ultrices congue rutrum.
-        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
-        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
-        blandit, dolor diam fringilla tellus, eu euismod mauris neque
-        at neque.</string>
+    <string name="subtitle_detail_text"><b>Gunung</b> adalah suatu bentuk permukaan tanah yang letaknya jauh lebih tinggi daripada tanah-tanah di daerah sekitarnya. Gunung pada umumnya lebih besar dibandingkan dengan bukit, tetapi bukit di suatu tempat bisa jadi lebih tinggi dibandingkan dengan apa yang disebut gunung di tempat yang lain. Gunung pada umumnya memiliki lereng yang curam dan tajam atau bisa juga dikelilingi oleh puncak-puncak atau pegunungan. Pada beberapa ketinggian gunung bisa memiliki dua atau lebih iklim, jenis tumbuh- tumbuhan, dan kehidupan yang berbeda.
+\n\n
+Sebenarnya tidak ada definisi umum untuk gunung. Ketinggian, volume, relief, kecuraman, jarak dan kontinuitas dapat dijadikan kriteria dalam mendefinisikan gunung. Menurut KBBI, definisi gunung adalah "Bukit yg sangat besar dan tinggi (biasanya tingginya lebih dari 600 m)" [1]
+\n\n
+Gunung paling tinggi di Indonesia adalah Puncak Jaya yang berada di Papua.</string>
 
     <string-array name="sports_titles">
         <item>Arjuno</item>
@@ -21,9 +20,9 @@
     </string-array>
 
     <string-array name="sports_info">
-        <item>Deskripsi Arjuno!</item>
-        <item>Deskripsi Raung!</item>
-        <item>Deskripsi Semeru!</item>
+        <item>Gunung Arjuno adalah sebuah gunung berapi kerucut di Jawa Timur, Indonesia dengan ketinggian 3.339 m dpl. Gunung Arjuno secara administratif terletak di perbatasan Kota Batu, Kabupaten Malang, dan Kabupaten Pasuruan dan berada di bawah pengelolaan Taman Hutan Raya Raden Soerjo.</item>
+        <item>Gunung Raung adalah gunung berapi kerucut yang terletak di ujung timur Pulau Jawa, Indonesia. Secara administratif, kawasan gunung ini termasuk dalam wilayah tiga kabupaten di wilayah Besuki, Jawa Timur, yaitu Banyuwangi, Bondowoso, dan Jember.</item>
+        <item>Gunung Semeru atau Gunung Meru adalah sebuah gunung berapi kerucut di Jawa Timur, Indonesia. Gunung Semeru merupakan gunung tertinggi di Pulau Jawa, dengan puncaknya Mahameru, 3.676 meter dari permukaan laut.</item>
     </string-array>
 
 
@@ -32,4 +31,92 @@
         <item>@drawable/raung</item>
         <item>@drawable/semeru</item>
     </array>
+
+    <string name="article_info_darurat">Perlengkapan Standar Mendaki Gunung\n\n
+    Sebelum mendaki gunung, kita wajib memerhatikan peralatan yang akan kita bawa.
+Berikut perlengkapan standar yang harus kita siapkan\n\n
+    <b>Peralatan masak.</b>\n
+Masak di alam liar, keren, kan.. hehe. Lebih baik masak makanan serba instan saja, tidak memerlukan waktu lama. Seperti mi rebus, disamping cepat juga dapat menghangatkan tubuh anda dikala cuaca dingin menusuk.
+\n\n
+<b>Tenda Dome</b>\n
+Bawa tenda dengan kapasitas sesuai rombongan anda. Tidak perlu masing-masing membawa tenda sendiri, misal satu tenda berkapasitas 6 orang. Tapi ingat satu hal, pisah tenda untuk laki-laki dengan perempuan (jika ada perempuan), mentang-mentang anda di alam bebas lalu antara laki-laki dengan perempuan tidak lagi ada batasan? sentil ! 😀
+\n\n
+<b>Jaket Gunung (wajib)</b>\n
+Ingat, jaket khusus untuk pendaki gunung. Bukan jaket biasa pada umumnya, yang hanya dibuat untuk bergaya. Jaket yang tahan air dan angin akan banyak membantu kelangsungan hidup anda saat pendakian. 😛
+\n\n
+<b>Tas Gunung</b>\n
+Selain menjadi tempat untuk membawa semua peralatan pendakian yang banyak, juga sebagai media penghangat tubuh. Karena tubuh harus membawa beban peralatan pendakian yang banyak, maka otot-otot tubuh akan lebih tegang. Akan tetapi jika lelah sudah menyerang, bisa sejenak beristirahat sembari menikmati pemandangan yang ada.
+\n\n
+<b>Sepatu atau sandal gunung (wajib)</b>\n
+Masih banyak lagi peralatan yang wajib dibawa. Salah satunya adalah sandal dan sepatu gunung. Untuk satu ini juga tidak kalah penting, karena alas kaki ini sangat membantu anda melindungi halusnya telapak kaki dari bebatuan licin serta tajam. Pastikan kulit bawah sandal atau sepatu tersebut masih mampu mencengkram jalur pendakian dengan baik.
+\n\n
+<b>Pakaian Outdoor</b>\n
+Pakaian jenis ini memang diciptakan untuk anda yang gemar menjelajah dunia luar, dan tentu dari segi bahan juga jelas berbeda. Kemampuan adaptasi dengan perubahan cuaca yang ekstrim adalah salah satu point penting dari pakaian ini.
+\n\n
+<b>Sleeping bag (wajib)</b>\n
+Bagi anda yang tidak sempat membawa tenda, bisa membawa alat satu ini. Pastikan alat satu ini masih berfungsi dengan baik. Tidur di luar tenda, melihat langit malam bertabur bintang langsung, mampu membuat anda sejenak terlena dengan ciptaan Tuhan Yang Maha Agung. #awesome..
+\n\n
+<b>Matras (wajib)</b>\n
+Jika Gelandangan punya Bang Haji Rhoma Irama berkata..”langit sebagai atap rumahku, dan bumi sebagai lantainya“,maka para pendaki gunung akan menambahkan lirik..”serta matras sebagai alasnya“.Ini menunjukkan bahwa matras mempunyai andil besar terhadap kemajuan dangdut.. Ups salah, maksud penulis adalah andil besar dalam kelancaran bermalam usai pendakian.
+\n\n
+<b>Senter atau headlamp</b>\n
+Bayangkan apabila saat anda mendaki gunung malam hari tanpa adanya alat penerangan seperti alat ini. Anda akan kehilangan arah, tidak tau tujuan hidup, hehe.
+\n\n
+<b>Tongkat Gunung</b>\n
+Orang hidup harus punya pegangan dan hidup juga harus seimbang. Maka dengan tongkat ini, anda akan punya pegangan dikala mendaki dan keseimbangan tubuh akan tetap terjaga, Ngoahahaa
+\n\n
+<b>Sarung tangan (wajib)</b>\n
+Tidak hanya “hati” anda yang sensitif, telapak tangan juga sensitif. Maka dari itu telapak tangan harus dilindungi, terutama dari dinginnya cuaca pegunungan. Dan yang paling penting, telapak tangan tetap lembut dan halus terjaga 😛
+\n\n
+<b>Kacamata</b>\n
+Mata adalah salah satu anugerah terindah yang kita gunakan untuk melihat yang indah-indah. Seperti halnya keindahan puncak pegunungan di Indonesia. Maka ketika anda mendaki gunung, alangkah baiknya jika anda melindungi indera yang satu ini dengan menggunakan kacamata.
+\n\n
+<b>Jam tangan</b>\n
+Sebagai pendaki gunung, anda harus mampu mengatur waktu dengan baik. Jam tangan akan membantu anda me-manage waktu pendakian.
+\n\n
+<b>Jas hujan dan cover bag (wajib)</b>\n
+Cuaca di pegunungan susah diprediksi, terkadang hujan bisa datang tiba-tiba ditengah udara dingin. Maka dari itu adanya jas hujan dan cover bag akan sangat membantu guna melindungi barang bawaan dari resapan air hujan.
+\n\n
+<b>Pelindung kaki dan sepatu / Gaiter</b>\n
+Gaiter berfungsi melindungi sepatu dan kaki dari debu.
+\n\n
+<b>Masker multifungsi</b>\n
+Tidak hanya terhindar dari debu, ini salah satu cara ampuh untuk menghalau asap belerang yang tidak dapat digadang-gadang datangnya.
+\n\n
+Selain beberapa peralatan utama diatas, ada pula peralatan pendukung yang tidak kalah penting :
+\n\n
+<ol>
+<li>Pakaian: syal, kaos kaki panjang, kupluk, sweater</li>
+<li>Alat mandi: sikat gigi, pasta gigi</li>
+<li>Alat makan: mangkuk makan, sendok, gelas (plastik)</li>
+<li>Peralatan navigasi: kompas, pengukur ketinggian, kamera saku</li>
+<li>Lain-lain: botol air, korek api, pisau</li>
+</ol>
+        \n\n
+Pertolongan Pertama Pada Kecelakaan (P3K)
+\n\n
+<ol>
+<li>Obat mata</li>
+<li>Kain kassa dan perban</li>
+<li>Plester (Hansaplast)</li>
+<li>Garam Oralit</li>
+<li>Minyak kayu putih</li>
+<li>Lotion terik matahari / Sunblock</li>
+<li>Tabung oksigen</li>
+<li>Kapas</li>
+<li>Tisu (basah dan kering)</li>
+<li>Betadine</li>
+<li>Alkohol (bukan untuk diminum)</li>
+<li>Obat sakit perut / diare</li>
+<li>Parasetamol</li>
+<li>Obat Alergi</li></ol></string>
+    <string name="article_news">
+Sebuah penelitian baru mengungkapkan fitur dunia bawah tanah yang menyerupai struktur di permukaan Bumi. Jauh dari iklim panas yang menggelegak, ternyata ada banyak gunung di dalam planet ini.
+\n\n
+Ahli geofisika dari Princeton University di Amerika Serikat dan Chinese Academy of Sciences menggunakan gema gempa besar yang melanda Bolivia pada dua dekade lalu, untuk menyatukan topografi di bawah Bumi.
+\n\n
+Pada 9 Juni 1994, lindu bermagnitudo 8,2 mengguncang wilayah Amazon yang berpenduduk jarang di Amerika Selatan. Ini adalah gempa terparah yang pernah melanda Bolivia sepanjang sejarah, dengan guncangan dirasakan hingga ke Kanada.
+\n\n
+"Gempa bumi sebesar ini tidak sering terjadi," kata ahli geografi Jessica Irving, seperti dikutip dari Live Science, Sabtu (16/2/2019).
+    </string>
 </resources>
